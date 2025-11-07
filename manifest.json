@@ -1,0 +1,21 @@
+{
+  "name": "智慧小苗苗 - 6岁学习伙伴",
+  "short_name": "智慧小苗苗",
+  "description": "专为6岁儿童设计的综合性学习应用，包含识字、数学、逻辑思维和英语启蒙",
+  "start_url": "./学习_修复版.html",
+  "display": "standalone",
+  "background_color": "#ff9a9e",
+  "theme_color": "#4facfe",
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
